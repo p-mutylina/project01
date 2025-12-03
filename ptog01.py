@@ -1,5 +1,5 @@
-message = "Арарэ"
+3message = "Арарэ"
 print(message)
 
-result = 2+2
+result = 5-2
 print(result)
